@@ -1,7 +1,7 @@
 # django-rest-filepond-react-js
 
-![REST](https://www.django-rest-framework.org/img/logo.png 'How to upload pictures via front end app to django rest backend')
-![FilepondDjango](https://raw.githubusercontent.com/pqina/filepond-github-assets/master/filepond-animation-01.gif 'How to upload pictures via front end app to django rest backend')
+![REST](https://www.django-rest-framework.org/img/logo.png "How to upload pictures via front end app to django rest backend")
+![FilepondDjango](https://raw.githubusercontent.com/pqina/filepond-github-assets/master/filepond-animation-01.gif "How to upload pictures via front end app to django rest backend")
 
 ## Example
 
@@ -9,8 +9,7 @@
 
 ## Deploy to Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://github.com/hvitis/django-rest-filepond-react-js)
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This repository contains a boilerplate project setup for Django and React Filepond JS.
 
