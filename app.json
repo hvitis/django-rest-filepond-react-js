@@ -1,6 +1,6 @@
 {
   "name": "DRF-Filepond-ReactJS",
-  "description": "Boilerplate for learning",
+  "description": "Boilerplate for learning django&react",
   "repository": "https://github.com/hvitis/django-rest-filepond-react-js",
   "logo": "https://pqina.nl/filepond//static/assets/social-square.png",
   "keywords": ["django", "filepond", "react"]
