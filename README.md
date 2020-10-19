@@ -9,7 +9,7 @@
 
 ## Deploy to Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://github.com/hvitis/django-rest-filepond-react-js)
 
 
 This repository contains a boilerplate project setup for Django and React Filepond JS.
