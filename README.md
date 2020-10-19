@@ -1,29 +1,11 @@
-# Django React Boilerplate
+# django-rest-filepond-react-js
 
-[![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
+![REST](https://www.django-rest-framework.org/img/logo.png 'How to upload pictures via front end app to django rest backend')
+![FilepondDjango](https://raw.githubusercontent.com/pqina/filepond-github-assets/master/filepond-animation-01.gif 'How to upload pictures via front end app to django rest backend')
 
-This repository contains a boilerplate project setup for Django and React. The project contains backend user authentication with the Django Rest Framework and rest-auth. The frontend has react redux setup for user authentication by storing the token in localstorage.
 
-[Watch the tutorial on how to integrate Django and React](https://youtu.be/YKYVv0gm_0o)
+This repository contains a boilerplate project setup for Django and React Filepond JS.
 
-## Backend development workflow
+Was copied and extended from [this][0] repository.
 
-```json
-virtualenv env
-source env/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
-```
-
-## Frontend development workflow
-
-```json
-npm i
-npm start
-```
-
-## For deploying
-
-```json
-npm run build
-```
+[0]: https://github.com/justdjango/django-react-boilerplate
